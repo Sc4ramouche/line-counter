@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "line-counter"
+name = "line_counter"
 version = "0.1.0"
