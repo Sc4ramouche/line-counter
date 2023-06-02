@@ -2,6 +2,10 @@
 
 CLI tool to count the number of lines in a directory or a file.
 
+## Dev
+
+`cargo watch -x 'run -- test-folder'`
+
 ## Motivation
 
 The main motivation is to practice building things in Rust. Some other points:
