@@ -19,3 +19,8 @@ The main motivation is to practice building things in Rust. Some other points:
 - Include or exclude blank lines from the count
 - Verbove or concise output
 - Split calculation in multiple threads (with benchmark).
+
+## Notes
+
+- If I were doing this in TypeScript, I'd probably opt in for recursive version of directory reader by default. But after reading up on using recursion in Rust, it seemed to be more idiomatic to implement iterative version with BFS.
+  - It's really nice to have collections like `VecDeque` in the standard library.
